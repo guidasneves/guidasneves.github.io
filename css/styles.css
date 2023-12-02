@@ -8,11 +8,11 @@
 
 /* Variables */
 :root {
-    --main-color: #258df5;
+    --main-color: #8dc6ff;
     --main-text-color: #FFF;
-    --border-color: #999;
-    --bio-bg-color: #1E2A3A;
-    --bio-border-color: #082141;
+    --border-color: #e4f1fe;
+    --bio-bg-color: #22313f;
+    --bio-border-color: #34495e;
     --about-bg-color: #111821;
 }
 
