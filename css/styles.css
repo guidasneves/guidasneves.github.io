@@ -11,8 +11,9 @@
     --main-color: #8dc6ff;
     --main-text-color: #FFF;
     --border-color: #e4f1fe;
+    --projects-button-color: #5cadff;;
     --bio-bg-color: #22313f;
-    --bio-border-color: #34495e;
+    --bio-border-color: #152230;
     --about-bg-color: #111821;
 }
 
@@ -128,7 +129,7 @@
     font-weight: bold;
     font-size: 16px;
     color: var(--main-text-color);
-    background-color: var(--main-color);
+    background-color: var(--projects-button-color);
     border: 2px solid var(--main-color);
     border-radius: 5px;
     text-decoration: none;
